@@ -30,7 +30,9 @@
 
  📫 Connect With Me
  <br/>
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/trent-davis/)
+ <a href="https://www.linkedin.com/in/trent-davis">
+ <img src="https://img.shields.io/badge/Trent_Davis-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
+ </a>
  
  
 <!--
