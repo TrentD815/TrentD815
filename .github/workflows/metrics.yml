@@ -8,9 +8,11 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-    - name: 💡 Habits plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+    name: 💡 Habits plugin
+    
+    if: ${{ success() || failure() }}
+    
+    uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
