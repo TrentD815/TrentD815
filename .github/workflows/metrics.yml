@@ -12,19 +12,16 @@ jobs:
     
       if: ${{ success() || failure() }}
     
-      uses: lowlighter/metrics@master
+      uses: lowlighter/metrics@latest
       with:
-          filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          plugin_habits_from: 200               # Use 200 events to compute habits
-          plugin_habits_days: 30                # Keep only events from last year
-          plugin_habits_trim: yes               # Trim unused hours on daily chart
-          config_timezone: America/New_York     # Set timezone
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_trim: yes
+          config_timezone: Europe/Paris
           
           
          
