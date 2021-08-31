@@ -34,7 +34,7 @@
  <img src="https://img.shields.io/badge/Trent_Davis-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
  </a>
  
- 
+ ![Metrics](https://github.com/TrentD815/TrentD815/blob/main/github-metrics.svg)
 <!--
 ### Hi there 👋
 **TrentD815/TrentD815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
