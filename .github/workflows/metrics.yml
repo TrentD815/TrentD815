@@ -8,14 +8,21 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+    - name: 💡 Habits plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
         with:
+          filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 30        # Keep only events from last year
-          plugin_habits_facts: no      # Display facts section
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
-          config_timezone: America/New_York # Set timezone
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_habits_from: 200               # Use 200 events to compute habits
+          plugin_habits_days: 30                # Keep only events from last year
+          plugin_habits_trim: yes               # Trim unused hours on daily chart
+          config_timezone: America/New_York     # Set timezone
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          
+          
+         
