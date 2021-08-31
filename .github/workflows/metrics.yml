@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-    name: 💡 Habits plugin
+    - name: 💡 Habits plugin
     
     if: ${{ success() || failure() }}
     
