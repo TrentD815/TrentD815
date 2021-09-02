@@ -35,7 +35,6 @@
  </a>
  
  ![Metrics](https://github.com/TrentD815/TrentD815/blob/main/github-metrics.svg)
- ![Metrics](https://github.com/TrentD815/TrentD815/blob/main/metrics.plugin.habits.svg)
  
 <!--
 ### Hi there 👋
