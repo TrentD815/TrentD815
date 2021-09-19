@@ -1,4 +1,5 @@
-<img src="githubReadMeBannerBackground.jpg"></img>
+<img height=290 src="githubReadMeBannerBackground.jpg"></img>
+<br/>
 ✔ Languages
 <br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -13,14 +14,12 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
- 
- ⚡ IDE's, VCS, and DB's
- <br/>
- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
- ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Xamarin](https://img.shields.io/badge/xamarin-3199DC?style=flat-square&logo=xamarin&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
  
 🌱 Currently Learning
 <br/>
