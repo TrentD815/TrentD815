@@ -1,5 +1,13 @@
 <img height=290 src="githubReadMeBannerBackground.jpg"></img>
 <br/>
+ 👨‍💻 About Me
+- ⚜ Dedicated programmer with a passion for designing modern intuitive UI's and creating 3D models
+- 🌱 Currently learning 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+- 💬 In my spare time, I enjoy playing video games, working out, and spending time with friends & family
+
 ✔ Languages
 <br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -7,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
 
 🛠 Frameworks & Support
 <br/>
@@ -21,17 +30,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
- 
-🌱 Currently Learning
-<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 
- 📫 Connect With Me
- <br/>
+ 📫 Connect With Me: 
  <a href="https://www.linkedin.com/in/trent-davis">
- <img src="https://img.shields.io/badge/Trent_Davis-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/Trent_Davis-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
  </a>
  
  ![Metrics](https://github.com/TrentD815/TrentD815/blob/main/github-metrics.svg)
