@@ -1,7 +1,7 @@
 <img height=290 src="githubReadMeBannerBackground.jpg"></img>
 <br/>
  👨‍💻 About Me
-- ⚜ Dedicated programmer with a passion for designing modern intuitive UI's and creating 3D models
+- ⚜ Dedicated programmer and stat enthusiast with a passion for designing and creating modern intuitive UI's. I also enojoy creating 3D models on the side.
 - 🌱 Currently learning 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
