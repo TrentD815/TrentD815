@@ -24,6 +24,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/xamarin-3199DC?style=flat-square&logo=xamarin&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black)
