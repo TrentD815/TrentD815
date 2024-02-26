@@ -1,4 +1,4 @@
-<img height=290 src="githubReadMeBannerBackground.jpg"></img>
+<img height=290 src="githubReadMeBannerBackgroundv2.png"></img>
 <br/>
 👨‍💻 About Me
 - 💻 Dedicated programmer and stat enthusiast with a passion for designing and creating modern intuitive UI's. I also enjoy creating 3D models on the side.
@@ -46,4 +46,4 @@
   <img src="https://img.shields.io/badge/Trent_Davis-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
  </a>
  
- ![Metrics](https://github.com/TrentD815/TrentD815/blob/main/github-metrics.svg)
+[//]: # ( ![Metrics]&#40;https://github.com/TrentD815/TrentD815/blob/main/github-metrics.svg&#41;)
